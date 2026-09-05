@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Omkar Bhalekar</h1>
 <h3 align="center">Computer Engineering Student | Full-Stack (MERN) Developer | Problem Solver</h3>
 
