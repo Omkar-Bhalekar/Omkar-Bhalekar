@@ -36,4 +36,3 @@
   </a>
 </p>
 
-<p align="center"><i>Thanks for stopping by — always open to collaborating on interesting projects! 🚀</i></p>
