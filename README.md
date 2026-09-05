@@ -2,10 +2,6 @@
 <h3 align="center">Computer Engineering Student | Full-Stack (MERN) Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2C6BED&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps+with+the+MERN+stack;Exploring+Data+Structures+%26+Algorithms+daily;Turning+ideas+into+clean%2C+working+code;Always+learning%2C+always+building." alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/omkarbhalekar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
