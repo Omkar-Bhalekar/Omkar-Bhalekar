@@ -24,9 +24,7 @@
 - 🎓 Pursuing **B.E. in Computer Engineering** at Ajeenkya DY Patil School of Engineering, Pune (CGPA: 9.21/10)
 - 💻 Comfortable across the **full stack** — from REST APIs to responsive, polished front ends
 - 🧠 Sharpening my problem-solving skills through **Data Structures & Algorithms**
-- 🔬 Recently worked as a **Data Science Intern**, building ML models for loan default risk prediction
 - 🌱 Always exploring new tools, frameworks, and better ways to build things
-- ⚡ Fun fact: I like giving my UIs a little glassmorphic flair whenever I get the chance
 
 ---
 
