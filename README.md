@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omkar Bhalekar</h1>
-<h3 align="center">Computer Engineer | Full-Stack (MERN) Developer | Problem Solver</h3>
+<h2 align="center">Hi 👋, I'm Omkar Bhalekar</h2> <h4 align="center">Computer Engineer | Full-Stack (MERN) Developer | Problem Solver
 
 ---
 
