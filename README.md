@@ -19,41 +19,6 @@
 </p>
 
 ---
-
-### 📌 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🏡 <a href="https://github.com/Omkar-Bhalekar/Wanderlust">WanderLust — Stays For Travel</a></h4>
-      A simplified Airbnb clone where users can list properties and travelers can book stays.
-      <br><br>
-      <b>Stack:</b> Node.js, Express.js, MongoDB, Mongoose, Passport.js, Cloudinary, EJS, Tailwind
-    </td>
-    <td width="50%">
-      <h4>💰 <a href="https://github.com/Omkar-Bhalekar/FinTrack">FinTrack — Expense Tracker</a></h4>
-      A full-stack expense tracker with budgeting, category management, and an interactive dashboard.
-      <br><br>
-      <b>Stack:</b> React.js (Vite), Node.js, Express.js, MongoDB, Mongoose
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>💬 <a href="https://github.com/Omkar-Bhalekar/MongoDB-CRUD-ChatApp">MongoDB CRUD Chat App</a></h4>
-      A full-stack CRUD app built around a chat-based data model with a responsive Tailwind UI.
-      <br><br>
-      <b>Stack:</b> Node.js, Express.js, MongoDB, Mongoose, EJS, Tailwind CSS
-    </td>
-    <td width="50%">
-      <h4>📌 <a href="https://github.com/Omkar-Bhalekar/PinPost">PinPost — REST API & CRUD App</a></h4>
-      A server-rendered app built to master REST API design and CRUD conventions.
-      <br><br>
-      <b>Stack:</b> Node.js, Express.js, EJS
-    </td>
-  </tr>
-</table>
-
----
 ### 🤝 Connect With Me
 
 <p align="center">
