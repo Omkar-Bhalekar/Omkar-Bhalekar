@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Omkar Bhalekar</h1>
-<h3 align="center">Computer Engineering Student | Full-Stack (MERN) Developer | Problem Solver</h3>
+<h3 align="center">Computer Engineer | Full-Stack (MERN) Developer | Problem Solver</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Pursuing **B.E. in Computer Engineering** at Ajeenkya DY Patil School of Engineering, Pune (CGPA: 9.21/10)
 - 💻 Comfortable across the **full stack** — from REST APIs to responsive, polished front ends
 - 🧠 Sharpening my problem-solving skills through **Data Structures & Algorithms**
 - 🌱 Always exploring new tools, frameworks, and better ways to build things
