@@ -1,18 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omkar Bhalekar</h1>
 <h3 align="center">Computer Engineering Student | Full-Stack (MERN) Developer | Problem Solver</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/omkarbhalekar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/omkar_2203/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="mailto:omkarbhalekar2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -77,6 +65,9 @@
   </a>
   <a href="https://leetcode.com/u/omkar_2203/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:omkarbhalekar2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
