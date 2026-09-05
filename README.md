@@ -70,20 +70,6 @@
 </table>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omkar-Bhalekar&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-Bhalekar&layout=compact&hide_border=true" width="30%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkar-Bhalekar&hide_border=true" width="48%" />
-</p>
-
----
-
 ### 🤝 Connect With Me
 
 <p align="center">
