@@ -10,8 +10,23 @@
 
 ---
 # 🛠️ Tech Stack
-
-[Java](https://docs.oracle.com/en/java/) [Python](https://docs.python.org/3/) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) [Node.js](https://nodejs.org/en/docs) [React](https://react.dev) [Tailwind CSS](https://tailwindcss.com/docs)
+<p align="left">
+  <a href="https://docs.oracle.com/en/java/"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" /></a>
+  <a href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" /></a>
+  <a href="https://en.cppreference.com/w/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" /></a>
+  <a href="https://nodejs.org/en/docs"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" /></a>
+  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" /></a>
+  <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" /></a>
+  <a href="https://www.mongodb.com/docs/"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" /></a>
+  <a href="https://dev.mysql.com/doc/"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" /></a>
+  <a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
+  <a href="https://docs.github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
+  <a href="https://tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" /></a>
+  <a href="https://getbootstrap.com/docs/"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" /></a>
+</p>
 
 ---
 ### 🤝 Connect With Me
