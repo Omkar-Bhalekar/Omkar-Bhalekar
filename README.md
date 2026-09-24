@@ -9,12 +9,9 @@
 - 🌱 Always exploring new tools, frameworks, and better ways to build things
 
 ---
+# 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,nodejs,react,express,mongodb,mysql,git,github,tailwind,bootstrap" />
-</p>
+[Java](https://docs.oracle.com/en/java/) [Python](https://docs.python.org/3/) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) [Node.js](https://nodejs.org/en/docs) [React](https://react.dev) [Tailwind CSS](https://tailwindcss.com/docs)
 
 ---
 ### 🤝 Connect With Me
