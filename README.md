@@ -10,7 +10,7 @@
 
 ---
 # 🛠️ Tech Stack
-<p align="left">
+<p align="center">
   <a href="https://docs.oracle.com/en/java/"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" /></a>
   <a href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" /></a>
   <a href="https://en.cppreference.com/w/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" /></a>
